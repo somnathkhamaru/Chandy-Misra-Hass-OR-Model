@@ -1,5 +1,5 @@
-# Chandy-Hass-Mishra-OR-Model
-Chandy-Mishra-Haas-Algorithm (OR Model) for Diffusion Based Deadlock Detection in Distributed Systems
+# Chandy-Misra-Hass-OR-Model
+Chandy-Misra-Hass-Algorithm (OR Model) for Diffusion Based Deadlock Detection in Distributed Systems
 
 •	The Source code is written in Java 8 and tested in Windows10 CMD. Source files InitiateProcess.java , Process.java ,Initiator.java  and dependencies like Dependencies.txt should be kept in same folder. 
 
